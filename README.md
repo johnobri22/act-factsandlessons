@@ -1,108 +1,99 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome johnobri22,
+History of Acting is a site that hopes to educate people interested in acting - teachers and
+students. The site informs about the lesser known theatre practitioners. Most actors are
+familiar with the teachings of Brook and Stanislavski. This site educates about the
+thoughts of Meyerhold, Grotowski and Brecht on the craft. There is an option on the
+website to book Dublin based classes relating to each of the practitioners. There are also
+links to useful YouTube videos on the site.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+**Existing Features**
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+• *Navigation Bar*
 
-## Gitpod Reminders
+  ◦ Featured on all four pages, the navigation bar has a link to the Home page. It
+    is identical in each page to allow for easy navigation
+  
+  ◦ The icon on the left also returns users to the homepage.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+![IMG_0283](https://user-images.githubusercontent.com/104386384/179850909-4b7a7bbb-3e5d-48bd-ba6d-17297cd5a570.jpg)
 
-`python3 -m http.server`
+• *The hero image*
 
-A blue button should appear to click: _Make Public_,
+  ◦ The hero includes a photograph of cast and crew on a film set with an aside
+    containing text which gives beginners an introductory lesson about acting.
 
-Another blue button should appear to click: _Open Browser_.
+![actheroresized](https://user-images.githubusercontent.com/104386384/179852418-dcf3129a-9171-4970-8eaa-5c5d7172d099.png)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+• *Book a class section*
 
-A blue button should appear to click: _Make Public_,
+  ◦ This section will allow the user to see exactly which, when and where classes will
+    happen
+  ◦ This section will lead users to a summary of the different practitioners teachings
 
-Another blue button should appear to click: _Open Browser_.
+![IMG_0282](https://user-images.githubusercontent.com/104386384/179850889-d1a351cf-2318-487e-aee6-d5edf7e6efca.PNG)
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+• *Practitioner Pages*
+  
+  ◦ The format of these pages is the same as the homepage. These pages contain basic
+    information on the fundamental ideas of Brecht/Meyerhold/Grotowski along with helpful
+    images
 
-To log into the Heroku toolbelt CLI:
+![IMG_0284](https://user-images.githubusercontent.com/104386384/179850923-dc18c7bb-7228-4499-99fb-4a632e64ecff.jpg)
+![IMG_0285](https://user-images.githubusercontent.com/104386384/179850954-c314c694-996a-4247-b645-5e0985688fc2.jpg)
+![IMG_0286](https://user-images.githubusercontent.com/104386384/179850977-e38cf0b9-2f5c-4088-ac23-174b51d0d362.jpg)
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+• *The Footer*
+  
+  ◦ The footer section includes links to the relevant social media sites for Love Running.
+    The links will open to a new tab to allow easy navigation for the user.
+  ◦ The footer is valuable to the user as it encourages them to keep connected via
+    social media
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+![image (1)](https://user-images.githubusercontent.com/104386384/179853021-a9e4d750-6db6-4080-b060-8d2277ec916a.png)
 
-------
+**Testing**
 
-## Release History
+The first test was the visual test. Each page was visually assessed to make sure that the
+text and images were clear and legible.
+Next, the links were tested.
+Validator Testing
+HTML
+Code was passed through W3C validator
+CSS
+No errors were found when passing through the official (Jigsaw) validator
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+**Deployment**
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+I logged in to Github
+Clicked the relevant repository
+Selected the Settings
+Scrolled down to the GitHub Pages section
+Clicked select a source and then selected “main”
+Clicked “save”
+Scrolled back down to the Github Pages section to the deployed link. And here it is https://github.com/johnobri22/project1resubmission
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+**Credits**
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+*Content*
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+• The educational text was based on Art of the Actor by Jean Benedetti
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+• The icons in the footer were taken from Font Awesome
+Media
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+• The photos used on the home and practitioner pages were taken from Google
+Images
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+WIREFRAME
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+![IMG_0228](https://user-images.githubusercontent.com/104386384/179961238-8156362b-bdbe-4791-9ba3-bd2282e15cda.PNG)
+![IMG_0229](https://user-images.githubusercontent.com/104386384/179961269-ac14369b-764a-4f92-92be-4ff1faf028f8.jpg)
+![IMG_0230](https://user-images.githubusercontent.com/104386384/179961383-2a6e665b-aa0b-4923-a8e5-33c44109c751.PNG)
+![IMG_0231](https://user-images.githubusercontent.com/104386384/179961411-c8a6413f-fa2c-40b2-abf9-f0cf19b5ac17.JPG)
+![IMG_0232](https://user-images.githubusercontent.com/104386384/179961463-af41d79a-fcf8-44e2-8b6a-2cd52f3d7140.PNG)
+![IMG_0233](https://user-images.githubusercontent.com/104386384/179961574-255fef9e-1989-4373-aac6-49fb49f15016.PNG)
+![IMG_0234](https://user-images.githubusercontent.com/104386384/179961593-5e15222c-8826-436c-a9b1-5398a63f27f6.PNG)
+![IMG_0235](https://user-images.githubusercontent.com/104386384/179961663-11716c08-395c-40f8-8e8d-dda7c2ed304f.JPG)
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
