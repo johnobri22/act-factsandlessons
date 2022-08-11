@@ -16,7 +16,8 @@ links to useful YouTube videos on the site.
   
   ◦ The icon on the left also returns users to the homepage.
 
-![IMG_0283](https://user-images.githubusercontent.com/104386384/179850909-4b7a7bbb-3e5d-48bd-ba6d-17297cd5a570.jpg)
+![image](https://user-images.githubusercontent.com/104386384/184175773-c0981c09-f4a8-41d7-81df-bee3646f81a7.png)
+
 
 • *The hero image*
 
