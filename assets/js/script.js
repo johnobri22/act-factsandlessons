@@ -1,4 +1,4 @@
-function stan(){document.getElementById("demo").innerHTML=`Let's imagine I have to fulfil a task on stage in the theatre. Then there is something strange because my close friend is in the theatre. Why should someone
+function stan(){document.getElementById("demo").innerHTML= `Let's imagine I have to fulfil a task on stage in the theatre. Then there is something strange because my close friend is in the theatre. Why should someone
 come to see me in the theatre and why am I on stage? This prevents me from
 believing in the task I have been given. I have to explain away all these
 inconsistencies. To do this the student has to imagine in detail all the attendant
